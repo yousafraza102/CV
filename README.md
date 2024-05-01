@@ -10,14 +10,14 @@
     <img src="" alt="" width="104" height="142">
     <h1>INTRODUCTION</h1>
     <p1> <b>Name</b> yousaf raza </p1> </br>
-    <p2> <b>Address</b> Khyber Agency</p2> </br>
+    <p2> <b>Address</b> mardan</p2> </br>
     <p3> <b>D.O.B</b> <em>2/OCT/2002</em > </p3> </br>
     <h2> CONTACT </h2>
-    <p4><b>Phone </b> 0308 9302835 </p4> </br>
-    <p5> <b> Email </b> aq.afd.01@gmail.com </p5>
+    <p4><b>Phone </b> 03163449107 </p4> </br>
+    <p5> <b> Email </b> yousafrazava@gmail.com </p5>
      <h3> EDUCATION </h3> 
-    <p6> <b> S.S.C </b> Gul Public School </p6> </Br>
-    <p7> <b> H.S.S.C</b>  Hadaf College Peshawar </p7> </br>
+    <p6> <b> S.S.C </b> shaheen scout accdmy jeewar </p6> </Br>
+    <p7> <b> H.S.S.C</b>   quaid e azam College mardan </p7> </br>
     <p8> BS IT cont </p8> </br>
     <p9> web and android app development cont </p9>
     <h4> EXPERIENCE </h4>
